@@ -1,0 +1,222 @@
+{
+  "projects": [
+    {
+      "id": "curved-led-video-wall",
+      "title": "Curved LED Video Wall Installation",
+      "slug": "curved-led-video-wall-installation",
+      "client": "Project reference available on request",
+      "sector": "Corporate / Institutional",
+      "category": "LED & Video Walls",
+      "location": "India",
+      "description": "Large-format curved LED video wall installation for a professional presentation and communication environment.",
+      "challenge": "Create a high-impact large-format visual system with a wide viewing area and clean architectural integration.",
+      "solution": "Curved LED video wall with professional structural mounting and integrated presentation-ready AV infrastructure.",
+      "scope": [
+        "System Supply",
+        "Installation",
+        "Integration",
+        "Commissioning"
+      ],
+      "technology": [
+        "Curved LED Video Wall",
+        "Large-Format Display",
+        "AV Integration"
+      ],
+      "result": "A high-visibility presentation surface designed for professional events, communication and visual presentation.",
+      "images": [
+        "/images/projects/curved-led-video-wall-installation.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Curved LED installation",
+        "Wide-format presentation surface",
+        "Professional AV environment"
+      ],
+      "featured": true,
+      "published": true,
+      "status": "PUBLISHED"
+    },
+    {
+      "id": "integrated-multi-screen-av",
+      "title": "Integrated Multi-Screen AV Presentation System",
+      "slug": "integrated-multi-screen-av-presentation-system",
+      "client": "Project reference available on request",
+      "sector": "Audio Visual",
+      "category": "Audio Visual Solutions",
+      "location": "India",
+      "description": "Multi-screen presentation environment combining a central professional display with supporting side displays for coordinated visual communication.",
+      "challenge": "Provide a clear, scalable presentation system capable of supporting multiple display surfaces within one venue.",
+      "solution": "Integrated multi-screen AV setup with coordinated displays and presentation infrastructure.",
+      "scope": [
+        "System Supply",
+        "Installation",
+        "Integration",
+        "Commissioning"
+      ],
+      "technology": [
+        "Professional Displays",
+        "Multi-Screen AV",
+        "Presentation System"
+      ],
+      "result": "A cohesive multi-display presentation environment for meetings, seminars and professional events.",
+      "images": [
+        "/images/projects/integrated-multi-screen-av-presentation-system.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Central + side displays",
+        "Presentation-ready AV",
+        "Integrated display environment"
+      ],
+      "featured": true,
+      "published": true,
+      "status": "PUBLISHED"
+    },
+    {
+      "id": "large-scale-auditorium-led-av",
+      "title": "Large-Scale Auditorium LED & AV Installation",
+      "slug": "large-scale-auditorium-led-av-installation",
+      "client": "Project reference available on request",
+      "sector": "Institutional / Events",
+      "category": "LED & Video Walls",
+      "location": "India",
+      "description": "Large auditorium visual system featuring a central LED display and supporting side screens for high-capacity presentations and events.",
+      "challenge": "Deliver a strong front-of-house visual experience that remains clear across a large seating area.",
+      "solution": "Central large-format LED display supported by side displays and stage AV infrastructure.",
+      "scope": [
+        "Display Installation",
+        "AV Integration",
+        "Stage AV",
+        "Commissioning"
+      ],
+      "technology": [
+        "LED Display",
+        "Side Displays",
+        "Stage AV"
+      ],
+      "result": "A large-scale auditorium presentation environment designed for events, seminars and institutional programs.",
+      "images": [
+        "/images/projects/large-scale-auditorium-led-av-installation.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Large auditorium",
+        "Central LED screen",
+        "Supporting side displays"
+      ],
+      "featured": true,
+      "published": true,
+      "status": "PUBLISHED"
+    },
+    {
+      "id": "interactive-digital-signage",
+      "title": "Interactive Digital Signage & Information Display System",
+      "slug": "interactive-digital-signage-information-display-system",
+      "client": "Project reference available on request",
+      "sector": "Digital Signage",
+      "category": "Digital Signage",
+      "location": "India",
+      "description": "Digital signage deployment using professional portrait displays and freestanding information kiosks across an indoor environment.",
+      "challenge": "Provide flexible digital communication points that can deliver information and multimedia content in high-traffic areas.",
+      "solution": "Freestanding portrait digital signage displays designed for information, content playback and user-facing communication.",
+      "scope": [
+        "Display Supply",
+        "Installation",
+        "Content Display Setup",
+        "Commissioning"
+      ],
+      "technology": [
+        "Digital Signage Displays",
+        "Portrait Kiosks",
+        "Information Displays"
+      ],
+      "result": "A flexible digital communication layer that supports information delivery and multimedia engagement.",
+      "images": [
+        "/images/projects/interactive-digital-signage-01.jpg",
+        "/images/projects/interactive-digital-signage-02.jpg",
+        "/images/projects/interactive-digital-signage-03.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Portrait digital displays",
+        "Freestanding kiosks",
+        "Multiple deployment views"
+      ],
+      "featured": true,
+      "published": true,
+      "status": "PUBLISHED"
+    },
+    {
+      "id": "large-format-outdoor-led",
+      "title": "Large-Format Outdoor LED Display System",
+      "slug": "large-format-outdoor-led-display-system",
+      "client": "Project reference available on request",
+      "sector": "LED & Video Walls",
+      "category": "LED & Video Walls",
+      "location": "India",
+      "description": "Outdoor large-format LED display mounted on a dedicated structural frame for high-visibility communication.",
+      "challenge": "Create a high-brightness outdoor visual platform suitable for long-distance viewing in an open environment.",
+      "solution": "Large-format outdoor LED display with structural mounting and installation support.",
+      "scope": [
+        "LED Supply",
+        "Structural Mounting",
+        "Installation",
+        "Commissioning"
+      ],
+      "technology": [
+        "Outdoor LED Display",
+        "Structural Mounting"
+      ],
+      "result": "A prominent outdoor display platform for announcements, events and visual communication.",
+      "images": [
+        "/images/projects/large-format-outdoor-led-display-system.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Outdoor LED",
+        "Structural installation",
+        "High-visibility display"
+      ],
+      "featured": false,
+      "published": true,
+      "status": "PUBLISHED"
+    },
+    {
+      "id": "premium-indoor-led-video-wall",
+      "title": "Premium Indoor LED Video Wall Installation",
+      "slug": "premium-indoor-led-video-wall-installation",
+      "client": "Project reference available on request",
+      "sector": "LED & Video Walls",
+      "category": "LED & Video Walls",
+      "location": "India",
+      "description": "Premium indoor LED video wall installation integrated into an auditorium or presentation environment.",
+      "challenge": "Deliver a large seamless visual surface with a premium appearance for professional presentations and events.",
+      "solution": "Indoor LED video wall installation integrated with the surrounding stage and architectural environment.",
+      "scope": [
+        "LED Supply",
+        "Installation",
+        "Integration",
+        "Commissioning"
+      ],
+      "technology": [
+        "Indoor LED Video Wall",
+        "Stage Display",
+        "AV Integration"
+      ],
+      "result": "A polished, high-impact indoor visual system for professional presentations and events.",
+      "images": [
+        "/images/projects/premium-indoor-led-video-wall-01.jpg",
+        "/images/projects/premium-indoor-led-video-wall-02.jpg"
+      ],
+      "completionDate": "",
+      "highlights": [
+        "Indoor LED wall",
+        "Auditorium integration",
+        "Premium visual presentation"
+      ],
+      "featured": false,
+      "published": true,
+      "status": "PUBLISHED"
+    }
+  ]
+}

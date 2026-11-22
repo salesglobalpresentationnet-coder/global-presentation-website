@@ -1,0 +1,44 @@
+{
+  "name": "Global Presentation Pvt. Ltd.",
+  "tagline": "Professional AV, Display & Signage Solutions for Enterprise & Institutions",
+  "description": "Global Presentation delivers professional Audio Visual, Display and Signage solutions for education, institutional and enterprise environments.",
+  "established": "2003",
+  "location": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "address": "Unit No. A-512, Chordias Kosmos, Block-A, Plot No. E-05, Vil-Badarwas, Jaipur, Rajasthan - 302019, India",
+    "pincode": "302019",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Unit%20No.%20A-512%2C%20Chordias%20Kosmos%2C%20Block-A%2C%20Plot%20No.%20E-05%2C%20Vil-Badarwas%2C%20Jaipur%2C%20Rajasthan%20-%20302019%2C%20India"
+  },
+  "contact": {
+    "phone": "+91 7412078084",
+    "altPhone": "+91 9829070166",
+    "phoneNumbers": [
+      "+91 7412078084",
+      "+91 9829070166",
+      "+91 7690835934",
+      "+91 9314448615"
+    ],
+    "email": "infoglobalpresentation@gmail.com",
+    "emails": [
+      "infoglobalpresentation@gmail.com",
+      "globalpresentation@gmail.com",
+      "accsglobalpresentation@gmail.com",
+      "rahul@globalpresentation.net"
+    ],
+    "whatsapp": "+917412078084"
+  },
+  "social": {
+    "linkedin": "https://lnkd.in/p/dbKsSW3v",
+    "x": "https://x.com/GlobalPresentPL",
+    "instagram": "https://www.instagram.com/globalpresentation/",
+    "youtube": "https://www.youtube.com/@globalpresentation",
+    "reddit": "https://www.reddit.com/user/global_presentation_/"
+  },
+  "registrations": {
+    "gstin": "[VERIFY] Add GST number when confirmed",
+    "pan": "[VERIFY]",
+    "cin": "[VERIFY]"
+  }
+}

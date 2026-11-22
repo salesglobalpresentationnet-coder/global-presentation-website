@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-white text-black;
+  }
+
+  ::selection {
+    @apply bg-accent-100 text-accent-900;
+  }
+}
+
+@layer components {
+  .container-xl {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-20 lg:py-28;
+  }
+
+  .section-padding-sm {
+    @apply py-12 lg:py-16;
+  }
+
+  .heading-1 {
+    @apply text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight;
+  }
+
+  .heading-2 {
+    @apply text-3xl lg:text-5xl font-bold tracking-tight;
+  }
+
+  .heading-3 {
+    @apply text-xl lg:text-2xl font-bold;
+  }
+
+  .body-text {
+    @apply text-base lg:text-lg text-slate-600 leading-relaxed;
+  }
+
+  .card-base {
+    @apply bg-slate-100 rounded-3xl p-6 hover:shadow-lg transition-all duration-300;
+  }
+
+  .card-dark {
+    @apply bg-charcoal-800 rounded-3xl p-6 transition-all duration-300;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold;
+  }
+
+  .badge-accent {
+    @apply badge bg-accent-50 text-accent-700;
+  }
+
+  .badge-navy {
+    @apply badge bg-slate-100 text-black;
+  }
+
+  /* Samsung-style dark key-visual hero: deep black with a soft light bloom */
+  .hero-gradient {
+    background:
+      radial-gradient(ellipse at 70% 0%, rgba(20, 40, 160, 0.35) 0%, transparent 55%),
+      radial-gradient(ellipse at 10% 100%, rgba(255, 255, 255, 0.06) 0%, transparent 50%),
+      #000000;
+  }
+
+  /* Kept for compatibility with existing pages; intentionally subtle */
+  .grid-pattern {
+    background-image: none;
+  }
+
+  .dots-pattern {
+    background-image: radial-gradient(rgba(0, 0, 0, 0.06) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-accent-400 to-accent-600;
+  }
+
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .reveal-hidden {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  .reveal-visible {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-slate-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-slate-400;
+}
+
+
+@layer components {
+  .project-tile {
+    isolation: isolate;
+  }
+
+  .project-tile::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(135deg, rgba(255,255,255,.06), transparent 32%, transparent 68%, rgba(91,192,255,.08));
+    opacity: .5;
+    transition: opacity .5s ease;
+  }
+
+  .project-tile:hover::after {
+    opacity: 1;
+  }
+
+  .project-mosaic > *,
+  .home-project-mosaic > * {
+    min-width: 0;
+  }
+}

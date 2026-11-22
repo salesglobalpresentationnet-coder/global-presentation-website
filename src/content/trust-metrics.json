@@ -1,0 +1,44 @@
+{
+  "metrics": [
+    {
+      "id": "experience",
+      "value": 20,
+      "suffix": "+",
+      "label": "Years of Experience",
+      "status": "PUBLICLY_REFERENCED",
+      "note": "Established approx 2003 per public records"
+    },
+    {
+      "id": "projects",
+      "value": 0,
+      "suffix": "+",
+      "label": "Projects Completed",
+      "status": "NEEDS_CONFIRMATION",
+      "note": "Replace 0 with confirmed project count"
+    },
+    {
+      "id": "clients",
+      "value": 0,
+      "suffix": "+",
+      "label": "Institutional Clients",
+      "status": "NEEDS_CONFIRMATION",
+      "note": "Replace 0 with confirmed client count"
+    },
+    {
+      "id": "cities",
+      "value": 0,
+      "suffix": "+",
+      "label": "Cities Served",
+      "status": "NEEDS_CONFIRMATION",
+      "note": "Replace 0 with confirmed coverage"
+    },
+    {
+      "id": "oem",
+      "value": 0,
+      "suffix": "+",
+      "label": "OEM Partnerships",
+      "status": "NEEDS_CONFIRMATION",
+      "note": "Replace 0 with confirmed partner count"
+    }
+  ]
+}

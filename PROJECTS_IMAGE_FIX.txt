@@ -1,0 +1,6 @@
+PROJECTS IMAGE FIX
+
+Project images are stored in:
+public/images/projects/
+
+The project data references the JPG files directly. Restart the Next.js dev server after replacing the project folder.
